@@ -26,4 +26,6 @@ The SQL database we use includes tables for products, categories which our produ
 ## Questions
 If there are any questions please reach out to me on github @ https://github.com/bEbOuNdLeSs
 
-## Video Demo 
+## Video Demo
+
+https://youtu.be/IhV6oLBLQkc
